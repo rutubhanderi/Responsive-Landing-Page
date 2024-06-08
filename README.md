@@ -12,14 +12,14 @@ This project is a responsive landing page for a fictional tech company named "ro
 ## Project Structure
 The project consists of the following files:
 
--index.html: The home page.
--about.html: The about us page.
--services.html: The services page.
--contact.html: The contact us page.
--styles.css: The CSS file containing styles for the site.
+- index.html: The home page.
+- about.html: The about us page.
+- services.html: The services page.
+- contact.html: The contact us page.
+- styles.css: The CSS file containing styles for the site.
 
 
 ## How to Use
--Clone the Repository: Clone this repository to your local machine.
--Open in Browser: Open index.html in your preferred web browser to view the landing page.
--Navigate: Use the navigation menu to navigate between the Home, About, Services, and Contact Us pages.
+- Clone the Repository: Clone this repository to your local machine.
+- Open in Browser: Open index.html in your preferred web browser to view the landing page.
+- Navigate: Use the navigation menu to navigate between the Home, About, Services, and Contact Us pages.
