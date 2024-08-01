@@ -1,6 +1,6 @@
-# SCT_WD_1
 
-## Responsive Landing Page
+
+# Responsive Landing Page
 This project is a responsive landing page for a fictional tech company named "root2 Tech." The landing page features an interactive navigation menu that changes color or style when scrolled or when hovering over a menu item. The navigation menu has a fixed position and is visible on all pages.
 
 ## Features
