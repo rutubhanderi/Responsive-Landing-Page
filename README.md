@@ -23,3 +23,5 @@ The project consists of the following files:
 - Clone the Repository: Clone this repository to your local machine.
 - Open in Browser: Open index.html in your preferred web browser to view the landing page.
 - Navigate: Use the navigation menu to navigate between the Home, About, Services, and Contact Us pages.
+
+## Check out the live website: https://rutubhanderi.github.io/Responsive-Landing-Page/
